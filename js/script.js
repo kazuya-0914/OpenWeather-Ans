@@ -1,4 +1,4 @@
-// 東京都の天気予報データを取得するためのURL（APIキー削除しています）
+// 東京都の天気予報データを取得するためのURL（APIキーは削除しています）
 const url = 'https://api.openweathermap.org/data/2.5/weather?q=Tokyo&lang=ja&units=metric&appid=';
 
 // dataクラスの要素を取得
